@@ -1,0 +1,24 @@
+# Directory ignore
+__previews
+.mrs
+.codex
+.templates
+.settings
+.vscode
+.env
+obj
+history
+Project Logs for HARD
+Project Outputs for HARD
+# File ignore
+*.launch
+CONTINUITY.md
+*.PrjPcbStructure
+*.xlsx
+*.IntLib
+*.html
+*.cam
+*.outjob
+*.dwg
+*.txt
+*.step

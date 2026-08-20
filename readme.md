@@ -1,0 +1,1 @@
+# This project is designed for a 300A BMS using N-channel MOSFETs
